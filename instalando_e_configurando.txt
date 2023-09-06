@@ -1,0 +1,1 @@
+Também aprendi sobre a instalação do git, instalando o Git bash

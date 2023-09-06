@@ -1,0 +1,11 @@
+principais comandos: git add nome_do_arquivo
+
+git commit -m 'teste"
+
+git pull
+
+git push
+
+git checkout
+
+git clone

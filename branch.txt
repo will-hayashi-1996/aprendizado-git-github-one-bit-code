@@ -1,0 +1,1 @@
+Um branch é uma ramificação das versões de um projeto
